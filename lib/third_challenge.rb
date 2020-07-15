@@ -42,7 +42,7 @@ def third_challenge
                   name: "Lady Capulet",
                   age: "51"
                 },
-              :hero => {
+              :heroine => {
                 #your key/value pairs here
                   name: "Juliet",
                   age: "15",
