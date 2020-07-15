@@ -19,17 +19,15 @@ def third_challenge
           status: "alive"
         },
       :hero_friends => [
-        friend_one: [{
+        friend_one: [
           name: "Benvolio",
           age: "17",
           attitude: "worried"
-        }
         ],
-        friend_two: [{
+        friend_two: [
           name: "Mercutio",
           age: "18",
           attitude: "hot-headed"
-        }
         ]
       ]
    },
