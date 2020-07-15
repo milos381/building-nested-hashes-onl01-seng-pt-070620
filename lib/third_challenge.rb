@@ -4,20 +4,24 @@ def third_challenge
       :patriarch => {
         #your key/value pairs here
         attributes: [
-
+          name: "Lord Montague",
+          age: "54"
 
         ]
         },
       :matriarch => {
         #your key/value pairs here
         attributes: [
-
+          name: "Lady Montague",
+          age: "54"
         ]
         },
       :hero => {
         #your key/value pairs here
         attributes: [
-
+          name: "Romeo",
+          age: "15",
+          status: "alive"
         ]
         },
       :hero_friends => [
@@ -37,19 +41,23 @@ def third_challenge
       :patriarch => {
         #your key/value pairs here        #your key/value pairs here
                 attributes: [
-
+                  name: "Lord Capulet",
+                  age: "50",
                 ]
                 },
               :matriarch => {
                 #your key/value pairs here
                 attributes: [
-
+                  name: "Lady Capulet",
+                  age: "51",
                 ]
                 },
               :hero => {
                 #your key/value pairs here
                 attributes: [
-
+                  name: "Juliet",
+                  age: "15",
+                  status: "alive"
                 ]
                 },
               :heroine_friends => [
